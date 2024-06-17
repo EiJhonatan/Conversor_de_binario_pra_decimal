@@ -1,4 +1,4 @@
-numeroBinario = input("Digite um numero binário pra converter pra decimal")
+numeroBinario = input("Digite um numero binário pra converter pra decimal: ")
 
 
 def binario_para_decimal(binario):
